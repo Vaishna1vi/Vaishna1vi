@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.16895b231b6da505e2e4acef02a3c1fe?rik=ngCtyDYUHuj4bw&pid=ImgRaw&r=0)](https://github.com/Vaishna1vi)
+[![Header](https://th.bing.com/th/id/R.16895b231b6da505e2e4acef02a3c1fe?rik=ngCtyDYUHuj4bw&pid=ImgRaw&r=0)](https://github.com/Vaishna1vi)
 <h1 align="center">Hi 👋, I'm Vaishnavi Nagvanshi</h1>
 <h3 align="center">A passionate and enthusiast Web developer from India.</h3>
 
