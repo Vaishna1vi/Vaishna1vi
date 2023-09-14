@@ -27,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-nagvanshi-0a4b36251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-nagvanshi-0a4b36251/" height="30" width="40" /></a>
-<a href="https://fb.com/vaishanvi nagvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaishanvi nagvanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/vaishnavi nagvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavi nagvanshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishnavi-nagvanshi-0a4b36251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-nagvanshi-0a4b36251/" height="30" width="40" /></a>
+<a href="https://fb.com/vaishnavi.nagvanshi.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaishanvi nagvanshi" height="30" width="40" /></a>
+<a href="https://instagram.com/vaishnavinagvanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavi nagvanshi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaishnavinagvan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavi nagvanshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnavi nagvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavi nagvanshi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Vaishna1vi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavi nagvanshi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaishnavinagq3ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnavinagq3ap" height="30" width="40" /></a>
 </p>
 
