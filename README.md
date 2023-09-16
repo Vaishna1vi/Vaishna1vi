@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **vaishnavinagvanshi68675@gmail.com || https://www.linkedin.com/in/vaishnavi-nagvanshi-0a4b36251/**
 
-- 📄 Know about my experiences [https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/vaishnavinagvanshi2022_vitbhopal_ac_in/EQE7P1RD5n9Kk9MO0HHaN_cB9FUmT6nVMmRVSf2dXChuDQ](https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/vaishnavinagvanshi2022_vitbhopal_ac_in/EQE7P1RD5n9Kk9MO0HHaN_cB9FUmT6nVMmRVSf2dXChuDQ)
+- 📄 Know about my experiences through [My Resume](https://vitbhopalacin-my.sharepoint.com/:w:/g/personal/vaishnavinagvanshi2022_vitbhopal_ac_in/EVyQnVrXDOlMttixvz7INEgBQ4ehqB63dgehhAjGjElSiQ)
 
 - ⚡ Fun fact **I'm a generous and creative person.**
   
