@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **software developers and programmers**
 
-- 👨‍💻 All of my projects and work are available at [https://github.com/Vaishna1vi](https://github.com/Vaishna1vi)
+- 👨‍💻 All of my projects and work are available at [My Repositories section](https://github.com/Vaishna1vi?tab=repositories)
 
 - 💬 Ask me about **Java, SQL and JavaScript**
 
